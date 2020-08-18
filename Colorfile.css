@@ -6,4 +6,6 @@ p{
 }
 .Aclass{
     color:magenta;
+    font-size: 50px;
+    background: black;
 }
